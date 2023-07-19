@@ -25,10 +25,12 @@ Companies analyzed:
    * CNBC
 
 ## Findings
-[How Negative Are Our News Headlines? .ipynb](docs%2FHow%20Negative%20Are%20Our%20News%20Headlines%3F%20.ipynb)
+[How Negative Are Our News Headlines? .ipynb](https://github.com/cindyytong/news-headlines-sentiment/blob/main/docs/How%20Negative%20Are%20Our%20News%20Headlines%3F%20.ipynb)
 * The overall average percent of negative news headlines across the five analyzed companies and slightly decreased BY ~ 6% since 2002. 
 * CNN experienced the most volatile swing towards a higher negative sentiment 
-* CNBC expereinced the largest decline in negative sentiment 
+* CNBC experienced the largest decline in negative sentiment
+
+![Percent Headlines with Negative Sentiment](sentiment.png "Negative Headlines")
 
 ## Limitations
 * The classifier is only able to label "Positive" and "Negative".  It has not been trained to label "Neutral"
